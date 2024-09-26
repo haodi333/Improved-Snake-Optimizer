@@ -16,9 +16,7 @@ The meaning of parameters are as follows:
 ## Example
 
 Here we provide an optimization example on Sphere Function, which has a simple definition:
-$$
-f(X)=\sum_{i=1}^{\text{dim} }X_i^2 .
-$$
+$f(X)=\sum_{i=1}^{\text{dim} }X_i^2 .$
 The fitness curve is as follows.
 
 <img src="example.png" style="zoom:100%;" />
